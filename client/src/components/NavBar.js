@@ -13,7 +13,7 @@ export const NavBar = () => {
       <div className={styles.wrapper}>
         <div className={styles.left}>
           <div className={styles.item}>
-            <img src="../assets/imgs/en.png" alt="" />
+            <img src="@/assets/imgs/en.png" alt="" />
             <KeyboardArrowDownIcon />
           </div>
           <div className={styles.item}>

@@ -50,7 +50,7 @@ function Footer() {
           </span>
         </div>
         <div className={styles.right}>
-          <img />
+          <img src="@/assets/imgs/en.png" alt="" />
         </div>
       </div>
     </div>
