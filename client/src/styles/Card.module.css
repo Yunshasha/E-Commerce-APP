@@ -1,0 +1,58 @@
+.container {
+    width: 280px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+
+    .image {
+        width: 100%;
+        height: 400px;
+        overflow: hidden;
+        position: relative;
+    }
+    .image:hover {
+        .secondImg {
+            z-index: 2;
+        }
+    }
+    .image img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        position: absolute;
+    }
+    .image span {
+        position: absolute;
+        z-index: 3;
+        padding: 3px;
+        top: 5px;
+        left: 5px;
+        border-radius: 5px;
+        background-color: #fff;
+        color: teal;
+        font-style: 12px;
+        font-weight: 500;
+    }
+
+    .mainImg {
+        z-index: 1;
+    }
+
+    .prices {
+        display: flex;
+        gap: 20px;
+        font-size: 17px;
+        font-weight: 500;
+    }
+    .oldPrice {
+        text-decoration: line-through;
+        color: gray;
+    }
+}
+
+.container h2{
+    font-weight: 400;
+    font-size: 16px;
+}
+
