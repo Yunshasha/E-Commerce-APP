@@ -28,3 +28,10 @@ npm install
 npm build
 npm run develop
 ```
+
+### basic layout
+
+(<img src= 'https://github.com/Yunshasha/E-Commerce-APP/blob/main/client/public/imgs/homepage.png' style='width: 400px' />
+<img src= 'https://github.com/Yunshasha/E-Commerce-APP/blob/main/client/public/imgs/productCard.png' style='width: 400px' />
+<img src= 'https://github.com/Yunshasha/E-Commerce-APP/blob/main/client/public/imgs/gridCategories.png' style='width: 400px' />
+<img src= 'https://github.com/Yunshasha/E-Commerce-APP/blob/main/client/public/imgs/contactPage.png' style='width: 400px' />)
