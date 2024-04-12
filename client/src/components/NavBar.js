@@ -35,7 +35,7 @@ export const NavBar = () => {
         </div>
         <div className={styles.right}>
           <div className={styles.item}>
-            <Link href="/Home">Homepage</Link>
+            <Link href="/">Homepage</Link>
           </div>
           <div className={styles.item}>
             <Link href="/Home/About">About</Link>
@@ -44,7 +44,7 @@ export const NavBar = () => {
             <Link href="/Home/Contact">Contact</Link>
           </div>
           <div className={styles.item}>
-            <Link href="/">Stores</Link>
+            <Link href="/Stores">Stores</Link>
           </div>
           <div className={styles.icons}>
             <SearchIcon />

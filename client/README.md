@@ -18,9 +18,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+you can find all the icons you need from [mui icons](https://mui.com/material-ui/material-icons/), and follow the instruction to install the `@mui/icons-material` package to local.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```
+npm install @mui/icons-material
+npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+```
