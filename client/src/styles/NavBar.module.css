@@ -11,6 +11,9 @@
     display: flex;
     
 }
+.item:hover{
+    color: rgb(77, 123, 239);
+}
 .left {
     display: flex;
     gap: 15px;

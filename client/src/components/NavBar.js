@@ -35,13 +35,13 @@ export const NavBar = () => {
         </div>
         <div className={styles.right}>
           <div className={styles.item}>
-            <Link href="/">Homepage</Link>
+            <Link href="/Home">Homepage</Link>
           </div>
           <div className={styles.item}>
-            <Link href="/">About</Link>
+            <Link href="/Home/About">About</Link>
           </div>
           <div className={styles.item}>
-            <Link href="/">Contact</Link>
+            <Link href="/Home/Contact">Contact</Link>
           </div>
           <div className={styles.item}>
             <Link href="/">Stores</Link>
